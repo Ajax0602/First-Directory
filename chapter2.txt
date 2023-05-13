@@ -1,0 +1,1 @@
+Eventually I stopped using position absolute everytime for layouts and found that flexboxes are way better
