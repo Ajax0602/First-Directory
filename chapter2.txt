@@ -1,1 +1,3 @@
 Eventually I stopped using position absolute everytime for layouts and found that flexboxes are way better
+I was horrified by that but thought that the world government could take care of it very easily
+Oh Boy i was wrong
